@@ -1,8 +1,5 @@
-import tempfile
 import os
 import gradio as gr
-from easygui import msgbox
-
 from extensions.sd_train_extensions.scripts.kohya_ss.library.custom_logging import setup_logging
 
 # Set up logging

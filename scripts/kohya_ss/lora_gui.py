@@ -12,7 +12,7 @@ from extensions.sd_train_extensions.scripts.kohya_ss.library.common_gui import (
 )
 from extensions.sd_train_extensions.scripts.kohya_ss.library.class_command_executor import CommandExecutor
 
-from extensions.sd_train_extensions.scripts.kohya_ss.library.class_sample_images import SampleImages, run_cmd_sample
+from extensions.sd_train_extensions.scripts.kohya_ss.library.class_sample_images import run_cmd_sample
 
 from extensions.sd_train_extensions.scripts.kohya_ss.library.custom_logging import setup_logging
 
